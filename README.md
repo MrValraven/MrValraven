@@ -10,6 +10,6 @@
 
 <hr>
 
-![MrValraven's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrValraven&show_icons=true&theme=radical)
+![MrValraven's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrValraven&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrValraven&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrValraven&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
