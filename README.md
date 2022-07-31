@@ -35,3 +35,5 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrValraven&layout=compact&theme=tokyonight" />
 </a>
+
+<p>![](https://visitor-badge.laobi.icu/badge?page_id=MrValraven.MrValraven)</p>
