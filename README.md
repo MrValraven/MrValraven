@@ -7,7 +7,7 @@
 
 <p> When I'm not coding, I'm exploring some new type of cuisine, reinventing popular recipes as vegan ones, living the life of an intrepid D&D Character or thinking about the next big thing. </p>
 
-<img src="https://media3.giphy.com/media/e8hxrpXhsvzH5gqr6V/giphy.gif?cid=790b7611bf34dd8a418579d83c00d2a4ef7e862a4bec00b0&rid=giphy.gif&ct=s" />
+<img src="https://i.giphy.com/media/DoCIC5Pxp57qg/giphy.webp" />
 
 - 🔭 I’m currently working on several websites and in-house tools for [AAUE](https://aaue.pt/)
 - 🌱 I’m currently learning Next.js
