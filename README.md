@@ -7,7 +7,7 @@
 
 <img src="https://i.giphy.com/media/DoCIC5Pxp57qg/giphy.webp" />
 
-- 🔭 I’m currently working on several websites and in-house tools for [AAUE](https://aaue.pt/)
+- 🔭 I’m currently working for [GoContact](https://www.gocontact.com/pt-pt/)
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on MERN Stack projects
 - 😄 Pronouns: Any Pronouns
