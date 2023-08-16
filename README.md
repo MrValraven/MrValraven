@@ -41,3 +41,5 @@
 
 <a href="http://www.github.com/MrValraven"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MrValraven&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+For the curious cats: 
+01000011 01101111 01101101 01100101 01110010 00100000 01101111 00100000 01100011 01110101 00100000 01100100 01100101 00100000 01110001 01110101 01100101 01101101 00100000 01100101 01110011 01110100 11000011 10100001 00100000 01101100 01100101 01101110 01100100 01101111
