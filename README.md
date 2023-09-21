@@ -1,5 +1,5 @@
 
-# Hi there! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm <a href="https://tiagocostadev.com">Tiago</a> and I build things for the web
+# Hi there! I'm <a href="https://tiagocostadev.com">Tiago</a> and I build things for the web
 
 <p> I'm a Fullstack Developer based in Portugal who loves to bring to life some usefull and sometimes silly ideas that I think should exist outside my head :) </p>
 
