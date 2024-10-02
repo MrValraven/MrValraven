@@ -1,13 +1,13 @@
 
 # Hi there! I'm <a href="https://tiagocostadev.com">Tiago</a> and I build things for the web
 
-<p> I'm a Fullstack Developer based in Portugal who loves to bring to life some usefull and sometimes silly ideas that I think should exist outside my head :) </p>
+<p> I'm a Fullstack Developer based in Portugal who loves to bring to life some useful and sometimes silly ideas that I think should exist outside my head :) </p>
 
-<p> When I'm not coding, I'm exploring some new type of cuisine, reinventing popular recipes as vegan ones, living the life of an intrepid D&D Character or thinking about the next big thing. </p>
+<p> When I'm not coding, I'm exploring some new type of cuisine, reinventing popular recipes as vegan ones, living the life of an intrepid D&D Character, or thinking about the next big thing. </p>
 
 <img src="https://i.giphy.com/media/DoCIC5Pxp57qg/giphy.webp" />
 
-- 🔭 I’m currently working for [GoContact](https://www.gocontact.com/pt-pt/)
+- 🔭 I’m currently working for [Broadvoice](https://www.broadvoice.com/)
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on MERN Stack projects
 - 😄 Pronouns: Any Pronouns
