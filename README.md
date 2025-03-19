@@ -7,9 +7,8 @@
 
 <img src="https://i.giphy.com/media/DoCIC5Pxp57qg/giphy.webp" />
 
-- 🔭 I’m currently working for [Broadvoice](https://www.broadvoice.com/)
+- 🔭 I’m currently working for [Riskified](https://www.riskified.com/)
 - 🌱 I’m currently learning Next.js
-- 👯 I’m looking to collaborate on MERN Stack projects
 - 😄 Pronouns: Any Pronouns
 - ⚡ Fun fact: 3.1415926535 is almost the right radius value to bake a vegan Pi
 
